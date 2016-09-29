@@ -13,6 +13,16 @@ indexes:
 - kind: Post
   properties:
   - name: author
+  - name: DESC
+
+- kind: Post
+  properties:
+  - name: author
+  - name: Desc
+
+- kind: Post
+  properties:
+  - name: author
   - name: created
 
 - kind: Post
